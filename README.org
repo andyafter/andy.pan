@@ -1,0 +1,52 @@
+#+TITLE: Private Modules
+
+* Doom Emacs
+This repo is my configuration under [[https://github.com/hlissner/doom-emacs][Doom-Emacs]]
+
+Use this directory to store private configuration modules.
+
+You'll find [[https://github.com/hlissner/doom-emacs/wiki/Customization][more information about customizing Doom]] on the [[https://github.com/hlissner/doom-emacs/wiki][wiki]]
+
+
+
+* Table of Contents :TOC:
+- [[Doom Emacs][Doom Emacs]]
+- [[Module Flags][Module Flags]]
+- [[Prerequisites][Prerequisites]]
+- [[Features][Features]]
+  - [[Doom paredit][Doom paredit]]
+  - [[Doom smart parentheses][Doom smart parentheses]]
+  - [[Yield History M-y][Yield History M-y]]
+  - [[Imsaved buffer notification][Imsaved buffer notification]]
+  - [[Faster comments][Faster comments]]
+  - [[Intelligent registers][Intelligent registers]]
+  - [[Faster go-guru-referrers][Faster go-guru-referrers]]
+  - [[Code Refactoring][Code Refactoring]]
+  - [[Multiple Cursors, in EVIL!!!!!][Multiple Cursors, in EVIL!!!!!]]
+- [[Configuration][Configuration]]
+- [[Appendix][Appendix]]
+  - [[Commands][Commands]]
+  - [[Hacks][Hacks]]
+
+* Module Flags
+This module provides no flags.
+
+* Prerequisites
+This module has no prereqisites.
+
+* Features
+** DONE Doom paredit
+** DONE Doom smart parentheses
+** TODO Yield History M-y
+** TODO Imsaved buffer notification
+** TODO Faster comments
+** TODO Intelligent registers
+** TODO Faster go-guru-referrers
+** TODO Code Refactoring
+** TODO Multiple Cursors, in EVIL!!!!!
+
+* Configuration
+
+* Appendix
+** Commands
+** Hacks
