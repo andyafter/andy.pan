@@ -1,6 +1,6 @@
 ;;; private/andyafter/config.el -*- lexical-binding: t; -*-
 
-
+(require 'multiple-cursors)
 ;;; disabling key bindings related to these keys:
 (map! :nv "C-x" nil
       :nv "C-a" nil
@@ -25,4 +25,4 @@
 ;;; I like automatic completion
 (require 'company)
 (setq company-idle-delay 0.0
-      company-minimum-prefix-length 3)
+      company-minimum-prefix-length 2)
